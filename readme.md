@@ -20,7 +20,7 @@ Para instalar uma versão mais recente do cypress:
 
 
 #### Para iniciar o Cypress via Dashboard
-    npx cypress open
+    npm cypress open
 
 
 ## Documentação
