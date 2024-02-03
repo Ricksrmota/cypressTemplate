@@ -10,7 +10,7 @@
 ### Iniciando um projeto node
 Abra o terminal e digite o seguinte comando:
 
-    npm init -y
+    git init
 
 ### Instalando o cypress
 
